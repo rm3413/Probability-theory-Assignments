@@ -7,7 +7,7 @@
 
 ```math
 \phi(x) = \begin{cases}
-\frac{3}{8}x^2, & x \in [0, 2] \\
+\frac{2}{11}x^2, & x \in [0, 2] \\
 0, & \text{в остальных случаях}
 \end{cases}
 ```
